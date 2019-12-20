@@ -1,6 +1,7 @@
 layout: page
 title: "Especificações Técnicas"
-permalink: /especificacoes-tecnicas/
+date: 2019-12-20 11:16:00 -0300
+categories: principal
 
 ## Back-end
 
